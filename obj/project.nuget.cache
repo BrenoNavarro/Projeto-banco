@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s2SbO7LVw9QCMqT1987BIlqoH3uC0RhOg1txjjVUkGsN4991Y+HFKMa2cAWnei9yZ4IHLu3OEa5aKHHU9XNIhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Breno\\Desktop\\estudar\\Digital_Innovation_one\\dotnet\\Projeto\\arquivos\\projeto\\dotnet-bank\\dotnet-bank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Breno\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

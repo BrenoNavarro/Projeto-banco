@@ -1,0 +1,16 @@
+C:\Users\Breno\Desktop\estudar\Digital_Innovation_one\dotnet\Projeto\arquivos\projeto\dotnet-bank\bin\Debug\net5.0\dotnet-bank.exe
+C:\Users\Breno\Desktop\estudar\Digital_Innovation_one\dotnet\Projeto\arquivos\projeto\dotnet-bank\bin\Debug\net5.0\dotnet-bank.deps.json
+C:\Users\Breno\Desktop\estudar\Digital_Innovation_one\dotnet\Projeto\arquivos\projeto\dotnet-bank\bin\Debug\net5.0\dotnet-bank.runtimeconfig.json
+C:\Users\Breno\Desktop\estudar\Digital_Innovation_one\dotnet\Projeto\arquivos\projeto\dotnet-bank\bin\Debug\net5.0\dotnet-bank.runtimeconfig.dev.json
+C:\Users\Breno\Desktop\estudar\Digital_Innovation_one\dotnet\Projeto\arquivos\projeto\dotnet-bank\bin\Debug\net5.0\dotnet-bank.dll
+C:\Users\Breno\Desktop\estudar\Digital_Innovation_one\dotnet\Projeto\arquivos\projeto\dotnet-bank\bin\Debug\net5.0\ref\dotnet-bank.dll
+C:\Users\Breno\Desktop\estudar\Digital_Innovation_one\dotnet\Projeto\arquivos\projeto\dotnet-bank\bin\Debug\net5.0\dotnet-bank.pdb
+C:\Users\Breno\Desktop\estudar\Digital_Innovation_one\dotnet\Projeto\arquivos\projeto\dotnet-bank\obj\Debug\net5.0\dotnet-bank.csprojAssemblyReference.cache
+C:\Users\Breno\Desktop\estudar\Digital_Innovation_one\dotnet\Projeto\arquivos\projeto\dotnet-bank\obj\Debug\net5.0\dotnet-bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Breno\Desktop\estudar\Digital_Innovation_one\dotnet\Projeto\arquivos\projeto\dotnet-bank\obj\Debug\net5.0\dotnet-bank.AssemblyInfoInputs.cache
+C:\Users\Breno\Desktop\estudar\Digital_Innovation_one\dotnet\Projeto\arquivos\projeto\dotnet-bank\obj\Debug\net5.0\dotnet-bank.AssemblyInfo.cs
+C:\Users\Breno\Desktop\estudar\Digital_Innovation_one\dotnet\Projeto\arquivos\projeto\dotnet-bank\obj\Debug\net5.0\dotnet-bank.csproj.CoreCompileInputs.cache
+C:\Users\Breno\Desktop\estudar\Digital_Innovation_one\dotnet\Projeto\arquivos\projeto\dotnet-bank\obj\Debug\net5.0\dotnet-bank.dll
+C:\Users\Breno\Desktop\estudar\Digital_Innovation_one\dotnet\Projeto\arquivos\projeto\dotnet-bank\obj\Debug\net5.0\ref\dotnet-bank.dll
+C:\Users\Breno\Desktop\estudar\Digital_Innovation_one\dotnet\Projeto\arquivos\projeto\dotnet-bank\obj\Debug\net5.0\dotnet-bank.pdb
+C:\Users\Breno\Desktop\estudar\Digital_Innovation_one\dotnet\Projeto\arquivos\projeto\dotnet-bank\obj\Debug\net5.0\dotnet-bank.genruntimeconfig.cache
